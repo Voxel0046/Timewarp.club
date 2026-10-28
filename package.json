@@ -1,0 +1,17 @@
+{
+  "name": "timewarp-club",
+  "version": "1.0.0",
+  "description": "Timewarp web client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "timewarp",
+    "minecraft",
+    "react",
+    "gsap"
+  ],
+  "license": "MIT"
+}

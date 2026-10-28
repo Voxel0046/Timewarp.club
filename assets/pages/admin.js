@@ -1,0 +1,1 @@
+import{j as e}from"../core/vendor.js";export const A=()=>e.jsx("div",{className:"p-8 text-center text-white",children:"Admin Area"});export default{A};

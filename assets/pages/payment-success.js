@@ -1,0 +1,1 @@
+import{_ as c,j as a,N as n}from"../core/vendor.js";function m(){const[t]=c(),e=t.get("t");if(!e)return a.jsx(n,{to:"/pricing",replace:!0});const r=new URLSearchParams(t);r.delete("t");const s=r.toString(),o=`/payment/${encodeURIComponent(e)}${s?`?${s}`:""}`;return a.jsx(n,{to:o,replace:!0})}export{m as default};
